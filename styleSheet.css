@@ -1,1 +1,145 @@
+body {
+  background: url('https://Maddiebrighouse.github.io/images/flower-blur.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+.text {
+  height: 200px;
+  width: 340px;
+  top: 50px;
+}
+.text h1 {
+  text-align: center;
+  text-shadow: 1px 1px rgba(0, 0, 0, .1);
+  color: orange;
+  margin-top: 57px;
+  font-family: 'Germania One', cursive;
+  font-size: 6em;
+  text-shadow: 2px 2px #ff00cc
+}
+p {
+  text-align: center;
+  color: orange;
+  text-shadow: 1px 1px #ff00cc;
+  margin-top: 0px;
+  font-family: 'Kavivanar', cursive;
+  font-weight: 400;
+  font-size: 22px;
+}
+h1{
+  text-align: center;
+  font-family: 'Germania One', cursive;
+  font-size: 5em;
+  color: orange;
+  text-shadow: 2px 2px #ff00cc
+}
+h2, h3{
+  text-align: center;
+  font-family: 'Germania One', cursive;
+  color: #ff00cc;
+  text-shadow: 2px 2px orange;
+}
+a {
+  font-family: 'Kavivanar', cursive;
+  color: #ffa500;
+  text-decoration: none;
+  font-size:  -webkit-xxx-large;
+  padding-left: 15px;
+  border-left-width: 15px;
+  margin-left: 15px;
+  text-shadow: 1px 1px #ff00cc;
+  position: center;
+}
+a:hover {
+  color: #ff00cc;
+  text-shadow: 1px 1px #ffa500;
+}
+.topnav{
+  text-align: center;
+  text-decoration-line: none;
 
+}
+
+.button,.twitterButton, #twitter, #ajaxButton{
+  font-family: 'Germania One', cursive;
+  color: #ffa500;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: rgba(255, 0, 204, 0.15);
+  border-radius: 4px;
+  border: 2px solid #ffa500;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 1px #ff00cc;
+  text-shadow: 1px 1px #ff00cc;
+  transition-duration: 0.4s;
+}
+
+.button:hover ,#twitter, #ajaxButton{
+  color: #ff00cc;
+  text-shadow: 1px 1px #ffa500;
+  box-shadow: 1px 1px 1px #ffa500;
+  border: 2px solid #ff00cc;
+}
+.social {
+  padding: 20px;
+  margin: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  color: orange;
+  text-shadow: 1px 1px #ff00cc;
+  display: inline;
+  flex-wrap: wrap;
+  position: sticky;
+}
+li {
+  text-align: center;
+  font-family: 'Germania One', cursive;
+  font-size: 2em;
+  color: orange;
+  text-shadow: 2px 2px #ff00cc
+}
+.index {
+  float: left;
+  margin: 10px 10px 10px 10px;
+}
+time{
+  color: orange;
+  text-shadow: 1px 1px #ff00cc;
+  margin-top: 0px;
+  font-family: 'Kavivanar', cursive;
+  font-weight: 400;
+  font-size: 22px;
+  padding-left: 10px;
+  float: right;
+}
+.border {
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 2px;
+  color: orange;
+  box-shadow: 2px 2px #ff00cc
+}
+.blur {
+background-color: rgba(255, 255, 255, 0.31);
+-moz-box-shadow: 1px 2px 20px 20px rgba(255, 255, 255, 0.31);
+-webkit-box-shadow: 1px 2px 20px 20px rgba(255, 255, 255, 0.31);
+-moz-box-shadow: 1px 2px 20px 20px rgba(255, 255, 255, 0.31);
+-webkit-box-shadow: 1px 2px 20px 20px rgba(255, 255, 255, 0.31);
+box-shadow: 1px 2px 20px 20px rgba(255, 255, 255, 0.31);
+
+}
+div#maori, div#english {
+  text-align: center;
+  color: orange;
+  text-shadow: 1px 1px #ff00cc;
+  margin-top: 0px;
+  font-family: 'Kavivanar', cursive;
+  font-weight: 400;
+  font-size: 22px;
+}
+a#twitter{
+
+}
