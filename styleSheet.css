@@ -131,7 +131,7 @@ background-color: rgba(255, 255, 255, 0.31);
 box-shadow: 1px 2px 20px 20px rgba(255, 255, 255, 0.31);
 
 }
-div#maori, div#english {
+div#maori, div#english, div#refreashTwitter {
   text-align: center;
   color: orange;
   text-shadow: 1px 1px #ff00cc;
@@ -139,7 +139,4 @@ div#maori, div#english {
   font-family: 'Kavivanar', cursive;
   font-weight: 400;
   font-size: 22px;
-}
-a#twitter{
-
 }
